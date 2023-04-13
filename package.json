@@ -21,8 +21,8 @@
     "url": "https://github.com/mfreed420/Master-mybitcointraderpro/issues"
   },
   "homepage": "https://github.com/mfreed420/Master-mybitcointraderpro#readme",
-  "description": "",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.0.4"
-  }
+  },
+  "description": ""
 }
